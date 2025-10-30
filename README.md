@@ -3,87 +3,89 @@
   <h1>Educating Indian Population with Legal Knowledge</h1>
 </div>
 
-🇮🇳 Agentic AI Legal Assistant for India’s Digital Era
+# 🇮🇳 Agentic AI Legal Assistant for India’s Digital Era
 
-Educating the Indian population on legal knowledge — especially under the Bharatiya Nyaya Sanhita (BNS), Bharatiya Suraksha Adhiniyam (BSA), Information Technology (IT) Act, and the Digital Personal Data Protection (DPDP) Act — is crucial in today’s digital era.
+Educating the Indian population on legal knowledge — especially under the **Bharatiya Nyaya Sanhita (BNS)**, **Bharatiya Suraksha Adhiniyam (BSA)**, **Information Technology (IT) Act**, and the **Digital Personal Data Protection (DPDP) Act** — is crucial in today’s digital era.  
 
-With India rapidly moving towards digital governance and AI-driven services, citizens must understand their rights, responsibilities, and legal protections to ensure accountability, privacy, and fair use of technology.
+With India rapidly moving towards **digital governance** and **AI-driven services**, citizens must understand their **rights**, **responsibilities**, and **legal protections** to ensure **accountability**, **privacy**, and **fair use of technology**.  
 
-Most individuals remain unaware of the implications of data misuse, cybercrimes, or procedural rights under new legal frameworks.
+Most individuals remain unaware of the implications of data misuse, cybercrimes, or procedural rights under new legal frameworks.  
 
-To address this gap, I have developed an Agentic AI Legal Assistant, powered by multiple specialized agents trained using Retrieval-Augmented Generation (RAG) with Gemini API, LangChain, LangSmith, and Django WebSockets.
+To address this gap, I have developed an **Agentic AI Legal Assistant**, powered by multiple specialized agents trained using **Retrieval-Augmented Generation (RAG)** with **Gemini API**, **LangChain**, **LangSmith**, and **Django WebSockets**.  
 
-Each agent focuses on one domain — IT, DPDP, BSA, BNS, and Legal Web Search — while a Reflexion Agent synthesizes and contextualizes the combined insights to deliver accurate, legally-grounded responses.
+Each agent focuses on one domain — **IT**, **DPDP**, **BSA**, **BNS**, and **Legal Web Search** — while a **Reflexion Agent** synthesizes and contextualizes the combined insights to deliver **accurate, legally-grounded responses**.  
 
-This system empowers citizens, legal practitioners, and policymakers to interact intelligently with India’s evolving legal ecosystem, fostering digital literacy and legal empowerment at scale.
+This system empowers **citizens**, **legal practitioners**, and **policymakers** to interact intelligently with India’s evolving legal ecosystem, fostering **digital literacy** and **legal empowerment at scale**.
 
-AI-powered legal assistant using RAG and multi-agent systems on BNS, BSA, IT, and DPDP Acts to empower Indians with accurate, accessible, and actionable legal awareness for the digital era.
+> **AI-powered legal assistant using RAG and multi-agent systems on BNS, BSA, IT, and DPDP Acts to empower Indians with accurate, accessible, and actionable legal awareness for the digital era.**
 
-💡 Inspiration
+---
 
-India is undergoing a major legal transformation with the introduction of the Bharatiya Nyaya Sanhita (BNS), Bharatiya Suraksha Adhiniyam (BSA), Information Technology (IT) Act, and the Digital Personal Data Protection (DPDP) Act.
+## 💡 Inspiration
 
-Despite this, most citizens are unaware of their rights and responsibilities under these laws. This lack of awareness leads to misinformation, data misuse, and vulnerability to cybercrimes.
+India is undergoing a major legal transformation with the introduction of the **Bharatiya Nyaya Sanhita (BNS)**, **Bharatiya Suraksha Adhiniyam (BSA)**, **Information Technology (IT) Act**, and the **Digital Personal Data Protection (DPDP) Act**.  
 
-Inspired by this challenge, I set out to create an AI-powered legal assistant that helps every Indian easily understand and access accurate legal information.
+Despite this, most citizens are unaware of their rights and responsibilities under these laws. This lack of awareness leads to **misinformation**, **data misuse**, and **vulnerability to cybercrimes**.  
 
-⚙️ What It Does
+Inspired by this challenge, I set out to create an **AI-powered legal assistant** that helps every Indian easily understand and access **accurate legal information**.
 
-The project is an Agentic AI Legal Application that uses multiple specialized agents — each focused on IT, DPDP, BNS, BSA, and Legal Web Search.
+---
 
-These agents retrieve and process relevant legal information using Retrieval-Augmented Generation (RAG).
+## ⚙️ What It Does
 
-A central Reflexion Agent integrates and refines the responses to provide clear, accurate, and context-aware legal insights to users.
+The project is an **Agentic AI Legal Application** that uses multiple specialized agents — each focused on **IT**, **DPDP**, **BNS**, **BSA**, and **Legal Web Search**.  
 
-🏗️ How We Built It
+These agents retrieve and process relevant legal information using **Retrieval-Augmented Generation (RAG)**.  
 
-The system was developed using:
+A central **Reflexion Agent** integrates and refines the responses to provide **clear**, **accurate**, and **context-aware legal insights** to users.
 
-Gemini API
+---
 
-LangChain
+## 🏗️ How We Built It
 
-LangSmith
+The system was developed using:  
+- **Gemini API**  
+- **LangChain**  
+- **LangSmith**  
+- **Django WebSockets**
 
-Django WebSockets
+Each agent was designed with **domain-specific knowledge bases** and connected through **RAG pipelines** for retrieval and reasoning.  
 
-Each agent was designed with domain-specific knowledge bases and connected through RAG pipelines for retrieval and reasoning.
+The **Reflexion Agent** employs an **ensemble approach** to merge outputs, ensuring **comprehensive legal guidance**.
 
-The Reflexion Agent employs an ensemble approach to merge outputs, ensuring comprehensive legal guidance.
+---
 
-🚧 Challenges We Ran Into
+## 🚧 Challenges We Ran Into
 
-Synchronizing multiple agent responses in real time
+- Synchronizing multiple agent responses in real time  
+- Ensuring factual consistency across different legal domains  
+- Reducing latency during high-volume queries  
+- Maintaining compliance with India’s legal terminology and context  
 
-Ensuring factual consistency across different legal domains
+---
 
-Reducing latency during high-volume queries
+## 🏆 Accomplishments We’re Proud Of
 
-Maintaining compliance with India’s legal terminology and context
+- Successfully built a **multi-agent RAG-based AI legal system**  
+- Integrated **five distinct legal domains** under a unified framework  
+- Achieved **real-time legal search and reasoning** using WebSockets  
+- Created a platform that bridges the **gap between citizens and legal awareness**  
 
-🏆 Accomplishments We’re Proud Of
+---
 
-Successfully built a multi-agent RAG-based AI legal system
+## 📚 What We Learned & Next Steps
 
-Integrated five distinct legal domains under a unified framework
+The next step is to enhance the platform by integrating:  
+- **Regional language support**  
+- **Voice-based legal queries**  
+- **Explainable AI (XAI)** features  
 
-Achieved real-time legal search and reasoning using WebSockets
+These improvements will make interactions more **natural**, **transparent**, and **inclusive**.  
 
-Created a platform that bridges the gap between citizens and legal awareness
+Additionally, collaboration with **legal experts** and **government bodies** will ensure **compliance**, **accuracy**, and **large-scale public adoption**.  
 
-📚 What We Learned & Next Steps
+The platform will also incorporate **interactive visual graphics**, enabling users to **engage visually** with legal concepts for **clearer understanding** and **improved learning**.
 
-The next step is to enhance the platform by integrating:
-
-Regional language support
-
-Voice-based legal queries
-
-Explainable AI (XAI) features
-
-These improvements will make interactions more natural, transparent, and inclusive.
-
-Additionally, collaboration with legal experts and government bodies will ensure compliance, accuracy, and large-scale public adoption.
 
 The platform will also incorporate interactive visual graphics, enabling users to engage visually with legal concepts for clearer understanding and improved learning.
 <div style="border-top:2px solid #ccc; padding:15px; text-align:center; margin-top:25px;">
