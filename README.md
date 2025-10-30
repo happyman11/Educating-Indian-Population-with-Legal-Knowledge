@@ -172,15 +172,8 @@ The platform will also incorporate **interactive visual graphics**, enabling use
   </p>
 </div>
   
+| ![HMI](./media/hmi.png) | ![KRaCKR](./media/Krackr.png) |
+|:--:|:--:|
+| **Human Machine Interaction (HMI) Lab @ IIIT-Delhi** | **Knowledgeable Computing and Reasoning (KRaCKR) Lab @ IIIT-Delhi** |
 
-<div style="display:flex; justify-content:center; gap:20px; align-items:flex-start; flex-wrap:wrap;">
-  <figure style="margin:0; text-align:center; width:45%; min-width:250px;">
-    <img src="./media/hmi.png" alt="HMI" style="width:100%; padding-bottom:8px; border-radius:10px;">
-    <figcaption><b>Human Machine Interaction (HMI) Lab @ IIIT-Delhi</b></figcaption>
-  </figure>
-  <figure style="margin:0; text-align:center; width:45%; min-width:250px;">
-    <img src="./media/Krackr.png" alt="KRaCKR" style="width:100%; height:auto; padding-bottom:8px; border-radius:10px;">
-    <figcaption><b>Knowledgeable Computing and Reasoning (KRaCKR) Lab @ IIIT-Delhi</b></figcaption>
-  </figure>
-</div>
 
