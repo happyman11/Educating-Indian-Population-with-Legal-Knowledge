@@ -161,24 +161,26 @@ The platform will also incorporate **interactive visual graphics**, enabling use
 
 
 
-
 <div style="border-top:2px solid #ccc; padding:15px; margin-top:30px;">
-  <h2 style="text-align:center;">Acknowledgement</h2>
+  <h2 style="text-align:center;">🙏 Acknowledgement</h2>
   <p style="text-align:justify; font-size:16px; line-height:1.6;">
     We would like to express our heartfelt gratitude to  
-    <strong>Saumya Yadav</strong> <i><strong>HMI and KRaCKR Lab @ IIIT Delhi</strong></i> for her continuous invaluable technical assistance and collaboration that greatly enhanced the quality of our research. 
+    <strong>💡 Saumya Yadav</strong>  
+        <i>🎓  Phd Scholar in AI in Education</i><br>
+    <i><strong>🏛️ HMI Lab @ IIIT Delhi</strong></i>  
+    for her continuous, invaluable technical review and collaboration 🤝 that greatly enhanced the quality of our research.  
   </p>
 </div>
   
 
-
-<div style="display:flex; gap:20px; align-items:flex-start;">
-  <figure style="margin:0; text-align:center; width:45%;">
-    <img src="./media/hmi.png" alt="HMI" style="width:100%; padding-bottom:8px;">
+<div style="display:flex; justify-content:center; gap:20px; align-items:flex-start; flex-wrap:wrap;">
+  <figure style="margin:0; text-align:center; width:45%; min-width:250px;">
+    <img src="./media/hmi.png" alt="HMI" style="width:100%; padding-bottom:8px; border-radius:10px;">
     <figcaption><b>Human Machine Interaction (HMI) Lab @ IIIT-Delhi</b></figcaption>
   </figure>
-  <figure style="margin:0; text-align:center; width:45%;">
-    <img src="./media/Krackr.png" alt="KRaCKR" style="width:100%;height:90% padding-bottom:8px;">
-    <figcaption><b>Knowledgeable Computing and Reasoning (KRaCKR) Lab @ IIIT-Delhi</b>
+  <figure style="margin:0; text-align:center; width:45%; min-width:250px;">
+    <img src="./media/Krackr.png" alt="KRaCKR" style="width:100%; height:auto; padding-bottom:8px; border-radius:10px;">
+    <figcaption><b>Knowledgeable Computing and Reasoning (KRaCKR) Lab @ IIIT-Delhi</b></figcaption>
   </figure>
 </div>
+
