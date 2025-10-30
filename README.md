@@ -96,6 +96,11 @@ Additionally, collaboration with **legal experts** and **government bodies** wil
 The platform will also incorporate **interactive visual graphics**, enabling users to **engage visually** with legal concepts for **clearer understanding** and **improved learning**.
 
 ---
+## 🎥 Project Demo
+
+Watch the working demo of the **Agentic AI Legal Assistant** on YouTube:  
+[▶️ Watch Now](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+---
 
 ## 🚀 Cloning the Repository
 
@@ -154,6 +159,7 @@ The platform will also incorporate **interactive visual graphics**, enabling use
 
 We would like to express our heartfelt gratitude to  **💡 Saumya Yadav**  🎓 *PhD Scholar in AI in Education*  🏛️ *HMI Lab @ IIIT Delhi*  
 **for her continuous, invaluable technical review and collaboration 🤝 that greatly enhanced the quality of our research**.
+
 
  ## 🏛️  Affiliation
  
