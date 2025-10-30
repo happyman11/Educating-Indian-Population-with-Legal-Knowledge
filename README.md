@@ -155,7 +155,8 @@ The platform will also incorporate **interactive visual graphics**, enabling use
 We would like to express our heartfelt gratitude to  **💡 Saumya Yadav**  🎓 *PhD Scholar in AI in Education*  🏛️ *HMI Lab @ IIIT Delhi*  
 **for her continuous, invaluable technical review and collaboration 🤝 that greatly enhanced the quality of our research**.
 
-  
+ ## 🏛️  Affiliation
+ 
 | ![HMI](./media/hmi.png) | ![KRaCKR](./media/Krackr.png) |
 |:--:|:--:|
 | **Human Machine Interaction (HMI) Lab @ IIIT-Delhi** | **Knowledgeable Computing and Reasoning (KRaCKR) Lab @ IIIT-Delhi** |
