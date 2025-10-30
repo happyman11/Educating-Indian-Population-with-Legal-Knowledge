@@ -53,6 +53,22 @@ Each agent was designed with **domain-specific knowledge bases** and connected t
 
 The **Reflexion Agent** employs an **ensemble approach** to merge outputs, ensuring **comprehensive legal guidance**.
 
+The platform will also incorporate interactive visual graphics, enabling users to engage visually with legal concepts for clearer understanding and improved learning.
+
+<div style="border-top:2px solid #ccc; padding:15px; text-align:center; margin-top:25px;">
+  <h2>Overview of Chrome Extension</h2>
+  <div style="display:flex; justify-content:center; align-items:center; margin-top:10px;">
+    <img src="./media/Google-hackathon-animated.gif" alt="Overview Image" style="width:60%; max-width:600px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
+  </div>
+</div>
+
+<div style="border-top:2px solid #ccc; padding:15px; text-align:center; margin-top:25px;">
+  <h2>Chrome Extension Structure</h2>
+  <div style="display:flex; justify-content:center; align-items:center; margin-top:10px;">
+    <img src="./media/Google-hackathon-Flow.png" alt="Dataflow" style="width:60%; max-width:600px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
+  </div>
+</div>
+
 ---
 
 ## 🚧 Challenges We Ran Into
@@ -87,55 +103,42 @@ Additionally, collaboration with **legal experts** and **government bodies** wil
 The platform will also incorporate **interactive visual graphics**, enabling users to **engage visually** with legal concepts for **clearer understanding** and **improved learning**.
 
 
-The platform will also incorporate interactive visual graphics, enabling users to engage visually with legal concepts for clearer understanding and improved learning.
-<div style="border-top:2px solid #ccc; padding:15px; text-align:center; margin-top:25px;">
-  <h2>Overview of Chrome Extension</h2>
-  <div style="display:flex; justify-content:center; align-items:center; margin-top:10px;">
-    <img src="./media/Google-hackathon-animated.gif" alt="Overview Image" style="width:60%; max-width:600px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
-  </div>
-</div>
-
-<div style="border-top:2px solid #ccc; padding:15px; text-align:center; margin-top:25px;">
-  <h2>Chrome Extension Structure</h2>
-  <div style="display:flex; justify-content:center; align-items:center; margin-top:10px;">
-    <img src="./media/Google-hackathon-Flow.png" alt="Dataflow" style="width:60%; max-width:600px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
-  </div>
-</div>
 
 <div style="border-top:2px solid #ccc; padding:15px; margin-top:30px;">
-  <h2 style="text-align:center;">Cloning the Repository</h2>
+  <h2 style="text-align:center;">🚀 Cloning the Repository</h2>
   <ol style="text-align:left;">
     <li>
-      <strong>Installing Required Packages</strong><br>
+      <strong>📦 Installing Required Packages</strong><br>
       <code>fdfdfdfdfdfdf</code>
     </li>
     <li>
-      <strong>Application Set-up</strong>
+      <strong>⚙️ Application Set-up</strong>
       <ul>
         <li>
-          <strong>API-keys</strong><br>
+          <strong>🔑 API-keys</strong><br>
           <code>fdfdfdfdfdfdf</code>
         </li>
         <li>
-          <strong>Database Setup</strong><br>
+          <strong>🗄️ Database Setup</strong><br>
           <code>fdfdfdfdfdfdf</code>
         </li>
         <li>
-          <strong>Starting Django WSGI Server</strong><br>
+          <strong>🌐 Starting Django WSGI Server</strong><br>
           <code>fdfdfdfdfdfdf</code>
         </li>
         <li>
-          <strong>Starting Langgraph Server</strong><br>
+          <strong>🧠 Starting LangGraph Server</strong><br>
           <code>fdfdfdfdfdfdf</code>
         </li>
         <li>
-          <strong>Chrome Extension Set-up</strong><br>
+          <strong>🧩 Chrome Extension Set-up</strong><br>
           <code>fdfdfdfdfdfdf</code>
         </li>
       </ul>
     </li>
   </ol>
 </div>
+
 
 
 
