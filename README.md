@@ -1,8 +1,3 @@
-
-<div style="border-top:2px solid #ccc; padding:15px; text-align:center; margin-top:25px;">
-  <h1>Educating Indian Population with Legal Knowledge</h1>
-</div>
-
 # 🇮🇳 Agentic AI Legal Assistant for India’s Digital Era
 
 Educating the Indian population on legal knowledge — especially under the **Bharatiya Nyaya Sanhita (BNS)**, **Bharatiya Suraksha Adhiniyam (BSA)**, **Information Technology (IT) Act**, and the **Digital Personal Data Protection (DPDP) Act** — is crucial in today’s digital era.  
@@ -55,19 +50,17 @@ The **Reflexion Agent** employs an **ensemble approach** to merge outputs, ensur
 
 The platform will also incorporate interactive visual graphics, enabling users to engage visually with legal concepts for clearer understanding and improved learning.
 
-<div style="border-top:2px solid #ccc; padding:15px; text-align:center; margin-top:25px;">
-  <h2>Overview of Chrome Extension</h2>
-  <div style="display:flex; justify-content:center; align-items:center; margin-top:10px;">
-    <img src="./media/Google-hackathon-animated.gif" alt="Overview Image" style="width:60%; max-width:600px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
-  </div>
-</div>
+---
 
-<div style="border-top:2px solid #ccc; padding:15px; text-align:center; margin-top:25px;">
-  <h2>Chrome Extension Structure</h2>
-  <div style="display:flex; justify-content:center; align-items:center; margin-top:10px;">
-    <img src="./media/Google-hackathon-Flow.png" alt="Dataflow" style="width:60%; max-width:600px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
-  </div>
-</div>
+## 🧩 Chrome Extension Overview
+
+![Chrome Extension](./media/Google-hackathon-animated.gif)
+
+---
+
+## 🧠 Chrome Extension Structure
+
+![Extension Flow](./media/Google-hackathon-Flow.png)
 
 ---
 
@@ -102,6 +95,13 @@ Additionally, collaboration with **legal experts** and **government bodies** wil
 
 The platform will also incorporate **interactive visual graphics**, enabling users to **engage visually** with legal concepts for **clearer understanding** and **improved learning**.
 
+---
+
+## 🚀 Cloning the Repository
+
+1. **📦 Installing Required Packages**  
+   ```bash
+   fdfdfdfdfdfdf
 
 
 <div style="border-top:2px solid #ccc; padding:15px; margin-top:30px;">
@@ -140,23 +140,12 @@ The platform will also incorporate **interactive visual graphics**, enabling use
 </div>
 
 
+## 👨‍💻 Developed By
 
-<div style="border-top:2px solid #ccc; padding:15px; text-align:center; margin-top:25px;">
-<h2>>👨‍💻 Developed By:</h2> <div style="display:flex; justify-content:center; gap:40px; flex-wrap:wrap; margin-top:10px;"> 
-  <div style="width:45%; min-width:250px;"> 
-    <p> <strong>🧠 Ravi Shekhar Tiwari</strong><br> 
-    <i>🎓  Phd Scholar in Neuro-Symbolic AI</i><br> 
-    <i><strong>🏛️ HMI and KRaCKR Lab @ IIIT Delhi</strong></i> 
-  
-  
-  </p> </div> <div style="width:45%; min-width:250px;"> 
-  <p> <strong>Vinay Kumar Verma</strong><br> 
-    <i>🎓  Phd Scholar in Robotics</i><br>
-    <i><strong>🏛️HMI Lab @ IIIT Delhi</strong></i> 
-  </p> 
-  </div> 
-  </div> 
-  </div>
+| 🧠 **Name** | 🎓 **Role** | 🏛️ **Affiliation** |
+|--------------|-------------|--------------------|
+| **Ravi Shekhar Tiwari** | PhD Scholar in Neuro-Symbolic AI | HMI and KRaCKR Lab @ IIIT Delhi |
+| **Vinay Kumar Verma** | PhD Scholar in Robotics | HMI Lab @ IIIT Delhi |
 
 
 
