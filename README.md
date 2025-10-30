@@ -152,10 +152,7 @@ The platform will also incorporate **interactive visual graphics**, enabling use
 
 ## 🙏 Acknowledgement
 
-We would like to express our heartfelt gratitude to  
-**💡 Saumya Yadav**  
-🎓 *PhD Scholar in AI in Education*  
-🏛️ *HMI Lab @ IIIT Delhi*  
+We would like to express our heartfelt gratitude to  **💡 Saumya Yadav**  🎓 *PhD Scholar in AI in Education*  🏛️ *HMI Lab @ IIIT Delhi*  
 **for her continuous, invaluable technical review and collaboration 🤝 that greatly enhanced the quality of our research**.
 
   
