@@ -142,27 +142,21 @@ The platform will also incorporate **interactive visual graphics**, enabling use
 
 
 <div style="border-top:2px solid #ccc; padding:15px; text-align:center; margin-top:25px;">
-  <h2>👨‍💻 Developed By:</h2>
-  <div style="display:flex; justify-content:center; gap:40px; flex-wrap:wrap; margin-top:10px;">
-    
-    <div style="width:45%; min-width:250px;">
-      <p>
-        <strong>🧠 Ravi Shekhar Tiwari</strong><br>
-        <i>🎓 PhD Scholar in Neuro-Symbolic AI</i><br>
-        <i><strong>🏛️ HMI and KRaCKR Lab @ IIIT Delhi</strong></i>
-      </p>
-    </div>
-    
-    <div style="width:45%; min-width:250px;">
-      <p>
-        <strong>🔬 Vinay Kumar Verma</strong><br>
-        <i>👨‍🏫 Researcher, HMI Lab @ IIIT Delhi</i><br>
-        <i><strong>🏛️ HMI and KRaCKR Lab @ IIIT Delhi</strong></i>
-      </p>
-    </div>
-    
+<h2>>👨‍💻 Developed By:</h2> <div style="display:flex; justify-content:center; gap:40px; flex-wrap:wrap; margin-top:10px;"> 
+  <div style="width:45%; min-width:250px;"> 
+    <p> <strong>🧠 Ravi Shekhar Tiwari</strong><br> 
+    <i>🎓  Phd Scholar in Neuro-Symbolic AI</i><br> 
+    <i><strong>🏛️ HMI and KRaCKR Lab @ IIIT Delhi</strong></i> 
+  
+  
+  </p> </div> <div style="width:45%; min-width:250px;"> 
+  <p> <strong>Vinay Kumar Verma</strong><br> 
+    <i>🎓  Phd Scholar in Robotics</i><br>
+    <i><strong>🏛️HMI Lab @ IIIT Delhi</strong></i> 
+  </p> 
+  </div> 
+  </div> 
   </div>
-</div>
 
 
 
