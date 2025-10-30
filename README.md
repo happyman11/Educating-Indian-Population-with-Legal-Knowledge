@@ -150,16 +150,14 @@ The platform will also incorporate **interactive visual graphics**, enabling use
 
 
 
-<div style="border-top:2px solid #ccc; padding:15px; margin-top:30px;">
-  <h2 style="text-align:center;">🙏 Acknowledgement</h2>
-  <p style="text-align:justify; font-size:16px; line-height:1.6;">
-    We would like to express our heartfelt gratitude to  
-    <strong>💡 Saumya Yadav</strong>  
-        <i>🎓  Phd Scholar in AI in Education</i><br>
-    <i><strong>🏛️ HMI Lab @ IIIT Delhi</strong></i>  
-    for her continuous, invaluable technical review and collaboration 🤝 that greatly enhanced the quality of our research.  
-  </p>
-</div>
+## 🙏 Acknowledgement
+
+We would like to express our heartfelt gratitude to  
+**💡 Saumya Yadav**  
+🎓 *PhD Scholar in AI in Education*  
+🏛️ *HMI Lab @ IIIT Delhi*  
+**for her continuous, invaluable technical review and collaboration 🤝 that greatly enhanced the quality of our research**.
+
   
 | ![HMI](./media/hmi.png) | ![KRaCKR](./media/Krackr.png) |
 |:--:|:--:|
