@@ -104,17 +104,13 @@ Watch the working demo of the **Agentic AI Legal Assistant** on YouTube:
 
 ## 🚀 Cloning the Repository
 
-1. **📦 Installing Required Packages**  
-   ```bash
-   pip install req.txt
-
 
 <div style="border-top:2px solid #ccc; padding:15px; margin-top:30px;">
   <h2 style="text-align:center;">🚀 Cloning the Repository</h2>
   <ol style="text-align:left;">
     <li>
       <strong>📦 Installing Required Packages</strong><br>
-      <code>fdfdfdfdfdfdf</code>
+      <code> pip install req.txt</code>
     </li>
     <li>
       <strong>⚙️ Application Set-up</strong>
