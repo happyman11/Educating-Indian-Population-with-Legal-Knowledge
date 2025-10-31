@@ -158,7 +158,7 @@ Install the Chrome Extension located in the **Extension Folder** directly into y
 | 🧠 **Name** | 🎓 **Role** | 🏛️ **Affiliation** |
 |--------------|-------------|--------------------|
 | **Ravi Shekhar Tiwari** | PhD Scholar in Neuro-Symbolic AI | HMI and KRaCKR Lab @ IIIT Delhi |
-| **Vinay Kumar Verma** | PhD Scholar in Robotics | HMI Lab @ IIIT Delhi |
+| **Vinay Kumar Verma** | PhD Scholar in Human Robot Interaction | HMI Lab @ IIIT Delhi |
 
 
 
