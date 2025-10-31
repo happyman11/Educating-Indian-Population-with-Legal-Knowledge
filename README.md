@@ -117,7 +117,12 @@ Watch the working demo of the **Agentic AI Legal Assistant** on YouTube:
       <ul>
         <li>
           <strong>🔑 API-keys</strong><br>
-          <code>fdfdfdfdfdfdf</code>
+          <code>GEMINI_API_KEY=
+                Web_Search_GEMINI_API_KEY=
+                Acts_GEMINI_API_KEY=
+                Summary_GEMINI_API_KEY=
+                LANGSMITH_API_KEY=
+          </code>
         </li>
         <li>
           <strong>🗄️ Database Setup</strong><br>
