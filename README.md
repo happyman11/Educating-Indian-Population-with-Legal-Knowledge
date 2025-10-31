@@ -110,31 +110,34 @@ Watch the working demo of the **Agentic AI Legal Assistant** on YouTube:
   <ol style="text-align:left;">
     <li>
       <strong>📦 Installing Required Packages</strong><br>
-      <code> pip install req.txt</code>
+      <code> 
+        pip install req.txt
+      </code>
     </li>
     <li>
       <strong>⚙️ Application Set-up</strong>
       <ul>
         <li>
-          <strong>🔑 API-keys</strong><br>
-          <code>GEMINI_API_KEY=
-                Web_Search_GEMINI_API_KEY=
-                Acts_GEMINI_API_KEY=
-                Summary_GEMINI_API_KEY=
-                LANGSMITH_API_KEY=
+          <strong>🔑 API-keys in Agents Folder </strong><br>
+          <code>
+          GEMINI_API_KEY=
+          Web_Search_GEMINI_API_KEY=
+          Acts_GEMINI_API_KEY=
+          Summary_GEMINI_API_KEY=
+          LANGSMITH_API_KEY=
           </code>
         </li>
         <li>
-          <strong>🗄️ Database Setup</strong><br>
-          <code>fdfdfdfdfdfdf</code>
+          <strong>🌐 Starting Django WSGI Server</strong><br>
+          <code>python3 V4.0/Django_POC-Chatbot-main/Chatbot/manage.py runserver 8001</code>
         </li>
         <li>
-          <strong>🌐 Starting Django WSGI Server</strong><br>
-          <code>fdfdfdfdfdfdf</code>
+          <strong>🗄️ Database Setup</strong><br>
+          <code>python3 V4.0/Django_POC-Chatbot-main/Chatbot/db_scripts/insert_db_vector_db.py</code>
         </li>
         <li>
           <strong>🧠 Starting LangGraph Server</strong><br>
-          <code>fdfdfdfdfdfdf</code>
+          <code>langgraph dev</code>
         </li>
         <li>
           <strong>🧩 Chrome Extension Set-up</strong><br>
