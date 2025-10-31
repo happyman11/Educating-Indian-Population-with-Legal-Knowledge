@@ -95,54 +95,62 @@ Additionally, collaboration with **legal experts** and **government bodies** wil
 
 The platform will also incorporate **interactive visual graphics**, enabling users to **engage visually** with legal concepts for **clearer understanding** and **improved learning**.
 
----
 
 
-## 🚀 Cloning the Repository
+## 🚀 Cloning and Setup Guide
 
+### 1\. 📦 Installing Required Packages
 
-<div style="border-top:2px solid #ccc; padding:15px; margin-top:30px;">
-  <h2 style="text-align:center;">🚀 Cloning the Repository</h2>
-  <ol style="text-align:left;">
-    <li>
-      <strong>📦 Installing Required Packages</strong><br>
-      <code> 
-        pip install req.txt
-      </code>
-    </li>
-    <li>
-      <strong>⚙️ Application Set-up</strong>
-      <ul>
-        <li>
-          <strong>🔑 API-keys in Agents Folder </strong><br>
-          <code>
-          GEMINI_API_KEY=
-          Web_Search_GEMINI_API_KEY=
-          Acts_GEMINI_API_KEY=
-          Summary_GEMINI_API_KEY=
-          LANGSMITH_API_KEY=
-          </code>
-        </li>
-        <li>
-          <strong>🌐 Starting Django WSGI Server</strong><br>
-          <code>python3 V4.0/Django_POC-Chatbot-main/Chatbot/manage.py runserver 8001</code>
-        </li>
-        <li>
-          <strong>🗄️ Database Setup</strong><br>
-          <code>python3 V4.0/Django_POC-Chatbot-main/Chatbot/db_scripts/insert_db_vector_db.py</code>
-        </li>
-        <li>
-          <strong>🧠 Starting LangGraph Server</strong><br>
-          <code>langgraph dev</code>
-        </li>
-        <li>
-          <strong>🧩 Chrome Extension Set-up</strong><br>
-          <code>In Chrome install the Extension available in Extension Folder</code>
-        </li>
-      </ul>
-    </li>
-  </ol>
-</div>
+Use the following command to install the necessary dependencies:
+
+```bash
+pip install req.txt
+```
+
+-----
+
+### 2\. ⚙️ Application Set-up
+
+#### 🔑 API Keys Configuration
+
+You need to set the following API keys in the **Agents Folder**:
+
+```
+GEMINI_API_KEY=
+Web_Search_GEMINI_API_KEY=
+Acts_GEMINI_API_KEY=
+Summary_GEMINI_API_KEY=
+LANGSMITH_API_KEY=
+```
+
+#### 🌐 Starting Django WSGI Server
+
+Run the Django server on port 8001:
+
+```bash
+python3 V4.0/Django_POC-Chatbot-main/Chatbot/manage.py runserver 8001
+```
+
+#### 🗄️ Database Setup
+
+Execute the script to set up the database and vector store:
+
+```bash
+python3 V4.0/Django_POC-Chatbot-main/Chatbot/db_scripts/insert_db_vector_db.py
+```
+
+#### 🧠 Starting LangGraph Server
+
+Start the LangGraph server:
+
+```bash
+langgraph dev
+```
+
+#### 🧩 Chrome Extension Set-up
+
+Install the Chrome Extension located in the **Extension Folder** directly into your Chrome browser.
+
 
 
 ## 👨‍💻 Developed By
