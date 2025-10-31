@@ -141,7 +141,7 @@ Watch the working demo of the **Agentic AI Legal Assistant** on YouTube:
         </li>
         <li>
           <strong>🧩 Chrome Extension Set-up</strong><br>
-          <code>fdfdfdfdfdfdf</code>
+          <code>In Chrome install the Extension available in Extension Folder</code>
         </li>
       </ul>
     </li>
