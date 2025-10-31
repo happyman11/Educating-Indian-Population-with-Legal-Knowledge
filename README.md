@@ -96,11 +96,7 @@ Additionally, collaboration with **legal experts** and **government bodies** wil
 The platform will also incorporate **interactive visual graphics**, enabling users to **engage visually** with legal concepts for **clearer understanding** and **improved learning**.
 
 ---
-## 🎥 Project Demo
 
-Watch the working demo of the **Agentic AI Legal Assistant** on YouTube:  
-[▶️ Watch Now](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
----
 
 ## 🚀 Cloning the Repository
 
