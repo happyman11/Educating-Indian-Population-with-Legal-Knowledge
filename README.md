@@ -106,7 +106,7 @@ Watch the working demo of the **Agentic AI Legal Assistant** on YouTube:
 
 1. **📦 Installing Required Packages**  
    ```bash
-   fdfdfdfdfdfdf
+   pip install req.txt
 
 
 <div style="border-top:2px solid #ccc; padding:15px; margin-top:30px;">
